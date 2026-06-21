@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ddkvacv6mpidk"]
+
+[ext_resource type="Script" uid="uid://c1lhqpy32k5l6" path="res://simple-video-player-3d/script_video_player_3d.gd" id="1_7uie0"]
+
+[node name="VideoPlayer3D" type="MeshInstance3D" unique_id=1712623227]
+script = ExtResource("1_7uie0")
